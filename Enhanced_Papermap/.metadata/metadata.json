@@ -1,0 +1,11 @@
+﻿{
+	"name":	"Enhanced Papermap",
+	"id":	"enhanced.papermap",
+	"version":	"1.0.0",
+	"supported_game_version":	"1.0.0",
+	"short_description":	"Graphical papermap enhancement.",
+	"tags":	["Map"],
+	"relationships":	[],
+	"game_custom_data":	{
+}
+}

@@ -1,0 +1,19 @@
+﻿
+NGraphics = {
+	FLAT_MAP_COLOR_WATER_BLUE_HSV = { 0.604 0.57 0.20 }	#Base color of water
+	FLAT_MAP_COLOR_COAST_BLUE_HSV = { 0 0 0 }	#Base color of the gradient that goes from the coastline into the water
+	FLAT_MAP_COLOR_DETAIL_BLUE_HSV = { 0.6 0.5 0.20 }	#Color of the detail texture that's applied on top of the base color ^
+	FLAT_MAP_COLOR_WATER_BROWN_HSV = { 0.116 0.14 0.18 }	#Base color of water
+	FLAT_MAP_COLOR_COAST_BROWN_HSV = { 0.4 0.2 0.0 }	#Base color of the gradient that goes from the coastline into the water
+	FLAT_MAP_COLOR_DETAIL_BROWN_HSV = { 0.4 0.2 0.1 }	#Color of the detail texture that's applied on top of the base color ^
+	FLAT_MAP_COLOR_LAND_HSV = { 0.069 0.3 1.0 }		#Base color of land
+}
+
+NMapColors = {
+	DEFAULT_COLOR = 					{ 0.1 0.2 1 }
+}
+
+NMapName = {
+	NAME_DRAW_DISTANCE = 8000.0		# Remove province names beyond this distance
+	MAX_OPACITY = 0.85
+}
