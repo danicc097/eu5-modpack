@@ -1,0 +1,7 @@
+toggle_use_portrait = {
+    effect = {
+        scope:actor = {
+            add_country_modifier = { modifier = use_portrait years = -1	mode = add }
+        }
+    }
+}
