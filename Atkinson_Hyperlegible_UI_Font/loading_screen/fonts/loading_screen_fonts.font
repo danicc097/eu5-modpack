@@ -1,0 +1,417 @@
+### Atkinson Hyperlegible Next
+
+fontfiles = {
+	name = "AtkinsonHyperlegible-Regular"
+	always_load = no
+
+	group = {
+		languages = { "l_english" "l_french" "l_german" "l_russian" "l_spanish" "l_polish" "l_braz_por" "l_turkish" }
+		files = { "fonts/next/AtkinsonHyperlegibleNext-Regular.ttf" "fonts/NotoSans/NotoSans-Regular.ttf" "fonts/NotoSansJP/NotoSansJP-Regular.ttf" "fonts/NotoSansKR/NotoSansKR-Regular.ttf" }
+	}
+
+	group = {
+		languages = { "l_simp_chinese" }
+		files = { "fonts/NotoSans/NotoSans-Regular.ttf" "fonts/next/AtkinsonHyperlegibleNext-Regular.ttf" "fonts/NotoSansJP/NotoSansJP-Regular.ttf" "fonts/NotoSansKR/NotoSansKR-Regular.ttf" }
+	}
+
+	group = {
+		languages = { "l_korean" }
+		files = { "fonts/NotoSansKR/NotoSansKR-Regular.ttf" "fonts/next/AtkinsonHyperlegibleNext-Regular.ttf" "fonts/NotoSans/NotoSans-Regular.ttf" "fonts/NotoSansJP/NotoSansJP-Regular.ttf" }
+	}
+
+	group = {
+		languages = { "l_japanese" }
+		files = { "fonts/NotoSansJP/NotoSansJP-Regular.ttf" "fonts/next/AtkinsonHyperlegibleNext-Regular.ttf" "fonts/NotoSans/NotoSans-Regular.ttf" "fonts/NotoSansKR/NotoSansKR-Regular.ttf"  }
+	}
+}
+
+
+fontfiles = {
+	name = "AtkinsonHyperlegible-Light"
+	always_load = no
+
+	group = {
+		languages = { "l_english" "l_french" "l_german" "l_russian" "l_spanish" "l_polish" "l_braz_por" "l_turkish" }
+		files = { "fonts/next/AtkinsonHyperlegibleNext-Light.ttf" "fonts/NotoSans/NotoSans-Light.ttf" "fonts/NotoSansJP/NotoSansJP-Light.ttf" "fonts/NotoSansKR/NotoSansKR-Light.ttf" }
+	}
+
+	group = {
+		languages = { "l_simp_chinese" }
+		files = { "fonts/NotoSans/NotoSans-Light.ttf" "fonts/next/AtkinsonHyperlegibleNext-Light.ttf" "fonts/NotoSansJP/NotoSansJP-Light.ttf" "fonts/NotoSansKR/NotoSansKR-Light.ttf" }
+	}
+
+	group = {
+		languages = { "l_korean" }
+		files = { "fonts/NotoSansKR/NotoSansKR-Light.ttf" "fonts/next/AtkinsonHyperlegibleNext-Light.ttf" "fonts/NotoSans/NotoSans-Light.ttf" "fonts/NotoSansJP/NotoSansJP-Light.ttf" }
+	}
+
+	group = {
+		languages = { "l_japanese" }
+		files = { "fonts/NotoSansJP/NotoSansJP-Light.ttf" "fonts/next/AtkinsonHyperlegibleNext-Light.ttf" "fonts/NotoSans/NotoSans-Light.ttf" "fonts/NotoSansKR/NotoSansKR-Light.ttf"  }
+	}
+}
+
+fontfiles = {
+	name = "AtkinsonHyperlegible-Italic"
+	always_load = no
+
+	group = {
+		languages = { "l_english" "l_french" "l_german" "l_russian" "l_spanish" "l_polish" "l_braz_por" "l_turkish" }
+		files = { "fonts/next/AtkinsonHyperlegibleNext-Italic.ttf" "fonts/NotoSans/NotoSans-Regular.ttf" "fonts/NotoSansJP/NotoSansJP-Regular.ttf" "fonts/NotoSansKR/NotoSansKR-Regular.ttf" }
+	}
+
+	group = {
+		languages = { "l_simp_chinese" }
+		files = { "fonts/NotoSans/NotoSans-Regular.ttf" "fonts/next/AtkinsonHyperlegibleNext-Italic.ttf" "fonts/NotoSansJP/NotoSansJP-Regular.ttf" "fonts/NotoSansKR/NotoSansKR-Regular.ttf" }
+	}
+
+	group = {
+		languages = { "l_korean" }
+		files = { "fonts/NotoSansKR/NotoSansKR-Regular.ttf" "fonts/next/AtkinsonHyperlegibleNext-Italic.ttf" "fonts/NotoSans/NotoSans-Regular.ttf" "fonts/NotoSansJP/NotoSansJP-Regular.ttf" }
+	}
+
+	group = {
+		languages = { "l_japanese" }
+		files = { "fonts/NotoSansJP/NotoSansJP-Regular.ttf" "fonts/next/AtkinsonHyperlegibleNext-Italic.ttf" "fonts/NotoSans/NotoSans-Regular.ttf" "fonts/NotoSansKR/NotoSansKR-Regular.ttf"  }
+	}
+}
+
+fontfiles = {
+	name = "AtkinsonHyperlegible-Medium"
+	always_load = no
+
+	group = {
+		languages = { "l_english" "l_french" "l_german" "l_russian" "l_spanish" "l_polish" "l_braz_por" "l_turkish" }
+		files = { "fonts/next/AtkinsonHyperlegibleNext-Medium.ttf" "fonts/NotoSans/NotoSans-Medium.ttf" "fonts/NotoSansJP/NotoSansJP-Medium.ttf" "fonts/NotoSansKR/NotoSansKR-Medium.ttf" }
+	}
+
+	group = {
+		languages = { "l_simp_chinese" }
+		files = { "fonts/NotoSans/NotoSans-Medium.ttf" "fonts/next/AtkinsonHyperlegibleNext-Medium.ttf" "fonts/NotoSansJP/NotoSansJP-Medium.ttf" "fonts/NotoSansKR/NotoSansKR-Medium.ttf" }
+	}
+
+	group = {
+		languages = { "l_korean" }
+		files = { "fonts/NotoSansKR/NotoSansKR-Medium.ttf" "fonts/next/AtkinsonHyperlegibleNext-Medium.ttf" "fonts/NotoSans/NotoSans-Medium.ttf" "fonts/NotoSansJP/NotoSansJP-Medium.ttf" }
+	}
+
+	group = {
+		languages = { "l_japanese" }
+		files = { "fonts/NotoSansJP/NotoSansJP-Medium.ttf" "fonts/next/AtkinsonHyperlegibleNext-Medium.ttf" "fonts/NotoSans/NotoSans-Medium.ttf" "fonts/NotoSansKR/NotoSansKR-Medium.ttf"  }
+	}
+}
+
+fontfiles = {
+	name = "AtkinsonHyperlegible-MediumItalic"
+	always_load = no
+
+	group = {
+		languages = { "l_english" "l_french" "l_german" "l_russian" "l_spanish" "l_polish" "l_braz_por" "l_turkish" }
+		files = { "fonts/next/AtkinsonHyperlegibleNext-MediumItalic.ttf" "fonts/NotoSans/NotoSans-Medium.ttf" "fonts/NotoSansJP/NotoSansJP-Medium.ttf" "fonts/NotoSansKR/NotoSansKR-Medium.ttf" }
+	}
+
+	group = {
+		languages = { "l_simp_chinese" }
+		files = { "fonts/NotoSans/NotoSans-Medium.ttf" "fonts/next/AtkinsonHyperlegibleNext-MediumItalic.ttf" "fonts/NotoSansJP/NotoSansJP-Medium.ttf" "fonts/NotoSansKR/NotoSansKR-Medium.ttf" }
+	}
+
+	group = {
+		languages = { "l_korean" }
+		files = { "fonts/NotoSansKR/NotoSansKR-Medium.ttf" "fonts/next/AtkinsonHyperlegibleNext-MediumItalic.ttf" "fonts/NotoSans/NotoSans-Medium.ttf" "fonts/NotoSansJP/NotoSansJP-Medium.ttf" }
+	}
+
+	group = {
+		languages = { "l_japanese" }
+		files = { "fonts/NotoSansJP/NotoSansJP-Medium.ttf" "fonts/next/AtkinsonHyperlegibleNext-Medium.ttf" "fonts/NotoSans/NotoSans-Medium.ttf" "fonts/NotoSansKR/NotoSansKR-Medium.ttf"  }
+	}
+}
+
+fontfiles = {
+	name = "AtkinsonHyperlegible-SemiBold"
+	always_load = no
+
+	group = {
+		languages = { "l_english" "l_french" "l_german" "l_russian" "l_spanish" "l_polish" "l_braz_por" "l_turkish" }
+		files = { "fonts/next/AtkinsonHyperlegibleNext-SemiBold.ttf" "fonts/NotoSerifSC/NotoSerifSC-SemiBold.otf" "fonts/NotoSerifJP/NotoSerifJP-SemiBold.otf" "fonts/NotoSerifKR/NotoSerifKR-SemiBold.otf" }
+	}
+
+	group = {
+		languages = { "l_simp_chinese" }
+		files = { "fonts/NotoSerifSC/NotoSerifSC-SemiBold.otf" "fonts/next/AtkinsonHyperlegibleNext-SemiBold.ttf" "fonts/NotoSerifJP/NotoSerifJP-SemiBold.otf" "fonts/NotoSerifKR/NotoSerifKR-SemiBold.otf" }
+	}
+
+	group = {
+		languages = { "l_korean" }
+		files = { "fonts/NotoSerifKR/NotoSerifKR-SemiBold.otf" "fonts/next/AtkinsonHyperlegibleNext-SemiBold.ttf" "fonts/NotoSerifSC/NotoSerifSC-SemiBold.otf" "fonts/NotoSerifJP/NotoSerifJP-SemiBold.otf" }
+	}
+
+	group = {
+		languages = { "l_japanese" }
+		files = { "fonts/NotoSerifJP/NotoSerifJP-SemiBold.otf" "fonts/next/AtkinsonHyperlegibleNext-SemiBold.ttf" "fonts/NotoSerifSC/NotoSerifSC-SemiBold.otf" "fonts/NotoSerifKR/NotoSerifKR-SemiBold.otf" }
+	}
+}
+
+fontfiles = {
+	name = "AtkinsonHyperlegible-SemiBoldItalic"
+	always_load = no
+
+	group = {
+		languages = { "l_english" "l_french" "l_german" "l_russian" "l_spanish" "l_polish" "l_braz_por" "l_turkish" }
+		files = { "fonts/next/AtkinsonHyperlegibleNext-SemiBoldItalic.ttf" "fonts/NotoSerifSC/NotoSerifSC-SemiBold.otf" "fonts/NotoSerifJP/NotoSerifJP-SemiBold.otf" "fonts/NotoSerifKR/NotoSerifKR-SemiBold.otf" }
+	}
+
+	group = {
+		languages = { "l_simp_chinese" }
+		files = { "fonts/NotoSerifSC/NotoSerifSC-SemiBold.otf" "fonts/next/AtkinsonHyperlegibleNext-SemiBoldItalic.ttf" "fonts/NotoSerifJP/NotoSerifJP-SemiBold.otf" "fonts/NotoSerifKR/NotoSerifKR-SemiBold.otf" }
+	}
+
+	group = {
+		languages = { "l_korean" }
+		files = { "fonts/NotoSerifKR/NotoSerifKR-SemiBold.otf" "fonts/next/AtkinsonHyperlegibleNext-SemiBoldItalic.ttf" "fonts/NotoSerifSC/NotoSerifSC-SemiBold.otf" "fonts/NotoSerifJP/NotoSerifJP-SemiBold.otf" }
+	}
+
+	group = {
+		languages = { "l_japanese" }
+		files = { "fonts/NotoSerifJP/NotoSerifJP-SemiBold.otf" "fonts/next/AtkinsonHyperlegibleNext-SemiBold.ttf" "fonts/NotoSerifSC/NotoSerifSC-SemiBold.otf" "fonts/NotoSerifKR/NotoSerifKR-SemiBold.otf" }
+	}
+}
+
+#### Bold
+
+fontfiles = {
+	name = "AtkinsonHyperlegible-Bold"
+	always_load = no
+
+	group = {
+		languages = { "l_english" "l_french" "l_german" "l_russian" "l_spanish" "l_polish" "l_braz_por" "l_turkish" }
+		files = { "fonts/next/AtkinsonHyperlegibleNext-Bold.ttf" "fonts/NotoSerifSC/NotoSerifSC-Bold.otf" "fonts/NotoSerifJP/NotoSerifJP-Bold.otf" "fonts/NotoSerifKR/NotoSerifKR-Bold.otf" }
+	}
+
+	group = {
+		languages = { "l_simp_chinese" }
+		files = { "fonts/NotoSerifSC/NotoSerifSC-Bold.otf" "fonts/next/AtkinsonHyperlegibleNext-Bold.ttf" "fonts/NotoSerifJP/NotoSerifJP-Bold.otf" "fonts/NotoSerifKR/NotoSerifKR-Bold.otf" }
+	}
+
+	group = {
+		languages = { "l_korean" }
+		files = { "fonts/NotoSerifKR/NotoSerifKR-Bold.otf" "fonts/next/AtkinsonHyperlegibleNext-Bold.ttf" "fonts/NotoSerifSC/NotoSerifSC-Bold.otf" "fonts/NotoSerifJP/NotoSerifJP-Bold.otf" }
+	}
+
+	group = {
+		languages = { "l_japanese" }
+		files = { "fonts/NotoSerifJP/NotoSerifJP-Bold.otf" "fonts/next/AtkinsonHyperlegibleNext-Bold.ttf" "fonts/NotoSerifSC/NotoSerifSC-Bold.otf" "fonts/NotoSerifKR/NotoSerifKR-Bold.otf" }
+	}
+}
+
+fontfiles = {
+	name = "AtkinsonHyperlegible-BoldItalic"
+	always_load = no
+
+	group = {
+		languages = { "l_english" "l_french" "l_german" "l_russian" "l_spanish" "l_polish" "l_braz_por" "l_turkish" }
+		files = { "fonts/next/AtkinsonHyperlegibleNext-BoldItalic.ttf" "fonts/NotoSerifSC/NotoSerifSC-Bold.otf" "fonts/NotoSerifJP/NotoSerifJP-Bold.otf" "fonts/NotoSerifKR/NotoSerifKR-Bold.otf" }
+	}
+
+	group = {
+		languages = { "l_simp_chinese" }
+		files = { "fonts/NotoSerifSC/NotoSerifSC-Bold.otf" "fonts/next/AtkinsonHyperlegibleNext-BoldItalic.ttf" "fonts/NotoSerifJP/NotoSerifJP-Bold.otf" "fonts/NotoSerifKR/NotoSerifKR-Bold.otf" }
+	}
+
+	group = {
+		languages = { "l_korean" }
+		files = { "fonts/NotoSerifKR/NotoSerifKR-Bold.otf" "fonts/next/AtkinsonHyperlegibleNext-BoldItalic.ttf" "fonts/NotoSerifSC/NotoSerifSC-Bold.otf" "fonts/NotoSerifJP/NotoSerifJP-Bold.otf" }
+	}
+
+	group = {
+		languages = { "l_japanese" }
+		files = { "fonts/NotoSerifJP/NotoSerifJP-Bold.otf" "fonts/next/AtkinsonHyperlegibleNext-Bold.ttf" "fonts/NotoSerifSC/NotoSerifSC-Bold.otf" "fonts/NotoSerifKR/NotoSerifKR-Bold.otf" }
+	}
+}
+
+
+### Atkinsion Hyperlegible Mono
+
+fontfiles = {
+	name = "AtkinsonHyperlegibleMono-Light"
+	always_load = no
+
+	group = {
+		languages = { "l_english" "l_french" "l_german" "l_russian" "l_spanish" "l_simp_chinese" "l_korean" "l_japanese" "l_polish" "l_braz_por" "l_turkish" }
+		files = { "fonts/mono/AtkinsonHyperlegibleMono-Light.ttf" "fonts/NotoSansMono/NotoSansMono_SemiCondensed-Light.ttf" "fonts/NotoSans/NotoSans-Light.ttf"  "fonts/NotoSansJP/NotoSansJP-Light.ttf" "fonts/NotoSansKR/NotoSansKR-Light.ttf" }
+	}
+}
+
+fontfiles = {
+	name = "AtkinsonHyperlegibleMono-Regular"
+	always_load = no
+
+	group = {
+		languages = { "l_english" "l_french" "l_german" "l_russian" "l_spanish" "l_simp_chinese" "l_korean" "l_japanese" "l_polish" "l_braz_por" "l_turkish" }
+		files = { "fonts/mono/AtkinsonHyperlegibleMono-Regular.ttf" "fonts/NotoSansMono/NotoSansMono_SemiCondensed-Medium.ttf" "fonts/NotoSans/NotoSans-Medium.ttf"  "fonts/NotoSansJP/NotoSansJP-Medium.ttf" "fonts/NotoSansKR/NotoSansKR-Medium.ttf" }
+	}
+}
+
+
+
+#######################################################################
+#######################################################################
+#######################################################################
+
+# Each font should specify what it is used for.
+# Name fonts after intented usage, not after source file names.
+### Fonts used in-game ###
+
+font = {
+	name = "StandardGameFont"
+
+	fontstyle = {
+		style = regular
+		fontfiles = "AtkinsonHyperlegible-Regular"
+	}
+
+	#fontstyle = {
+	#	style = semibold # We should use this tag, theres no  "light" tag for styles in "textformatting.gui"
+	#	fontfiles = "AtkinsonHyperlegible-Light"
+	#}
+
+	fontstyle = {
+		style = bold
+		fontfiles = "AtkinsonHyperlegible-Medium"
+	}
+
+	fontstyle = {
+		style = italic
+		fontfiles = "AtkinsonHyperlegible-Italic"
+	}
+
+	fontstyle = {
+		style = bold|italic
+		fontfiles = "AtkinsonHyperlegible-MediumItalic"
+	}
+
+	underlineformats = {
+		default = {
+			thickness = 1
+			offset = 0.12
+		}
+	}
+}
+
+# Simple Font
+
+font = {
+	name = "SimpleFont"
+
+	fontstyle = {
+		style = regular
+		fontfiles = "AtkinsonHyperlegible-Regular"
+	}
+
+	fontstyle = {
+		style = semibold # We should use this tag, theres no  "light" tag for styles in "textformatting.gui"
+		fontfiles = "AtkinsonHyperlegible-Light"
+	}
+
+	fontstyle = {
+		style = bold
+		fontfiles = "AtkinsonHyperlegible-Medium"
+	}
+
+	fontstyle = {
+		style = italic
+		fontfiles = "AtkinsonHyperlegible-Italic"
+	}
+
+	fontstyle = {
+		style = bold|italic
+		fontfiles = "AtkinsonHyperlegible-MediumItalic"
+	}
+
+	underlineformats = {
+		default = {
+			thickness = 1
+			offset = 0.12
+		}
+	}
+}
+
+# Headers font
+
+font = {
+	name = "HeadersFont"
+
+	fontstyle = {
+		style = regular
+		fontfiles = "AtkinsonHyperlegible-Regular"
+	}
+
+	fontstyle = {
+		style = italic
+		fontfiles = "AtkinsonHyperlegible-RegularItalic"
+	}
+
+	fontstyle = {
+		style = bold
+		fontfiles = "AtkinsonHyperlegible-Medium"
+	}
+
+	fontstyle = {
+		style = bold|italic
+		fontfiles = "AtkinsonHyperlegible-MediumItalic"
+	}
+
+	underlineformats = {
+		default = {
+			thickness = 1
+			offset = 0.12
+		}
+	}
+}
+
+font = {
+    name = "Debug"
+
+    fontstyle = {
+		style = bold
+		fontfiles = "AtkinsonHyperlegibleMono-Regular"
+	}
+
+	fontstyle = {
+		style = regular
+		fontfiles = "AtkinsonHyperlegibleMono-Light"
+	}
+}
+
+
+# Flavor font
+
+font = {
+	name = "FlavorFont"
+
+	fontstyle = {
+		style = regular
+		fontfiles = "AtkinsonHyperlegible-Italic" # these are inverted so italics in event descs become unitalicized
+	}
+
+	fontstyle = {
+		style = bold
+		fontfiles = "AtkinsonHyperlegible-MediumItalic"
+	}
+
+	fontstyle = {
+		style = italic
+		fontfiles = "AtkinsonHyperlegible-Regular"
+	}
+
+	fontstyle = {
+		style = bold|italic
+		fontfiles = "AtkinsonHyperlegible-Medium"
+	}
+
+	underlineformats = {
+		default = {
+			thickness = 1
+			offset = 0.12
+		}
+	}
+}

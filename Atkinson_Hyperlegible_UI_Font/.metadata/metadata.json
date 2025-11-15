@@ -1,0 +1,11 @@
+﻿{
+	"name":	"Atkinson Hyperlegible UI Font",
+	"id":	"ikj.hyperlegible",
+	"version":	"202511.01",
+	"supported_game_version":	"1.*",
+	"short_description":	"Swaps the game font to Atkinson Hyperlegible Next, developed for the Braille Institute.",
+	"tags":	["User Interface"],
+	"relationships":	[],
+	"game_custom_data":	{
+}
+}
