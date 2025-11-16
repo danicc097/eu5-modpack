@@ -1,0 +1,11 @@
+﻿{
+	"name":	"Imperator Map Font",
+	"id":	"imperatormapfont",
+	"version":	"1.0",
+	"supported_game_version":	"1.0.0",
+	"short_description":	"Replaces the default map font with Imperator: Rome's.\n\nShould be Ironman/Achievement compatible",
+	"tags":	["Map"],
+	"relationships":	[],
+	"game_custom_data":	{
+}
+}

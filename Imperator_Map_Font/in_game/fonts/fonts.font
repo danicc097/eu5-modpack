@@ -1,0 +1,42 @@
+### Cinzel-Bold
+fontfiles = {
+	name = "Cinzel-Bold"
+	always_load = yes
+
+	group = {
+		languages = { "l_english" "l_french" "l_german" "l_spanish" }
+		files = { "fonts/Cinzel-Bold.ttf" "fonts/Open_Sans/OpenSans-SemiBoldItalic.ttf" "fonts/Noto_Sans_SC/NotoSansSC-Bold.otf" "fonts/Korean_fontset/GunglipbakmulgwanClassicB.ttf" }
+	}
+
+	group = {
+		languages = { "l_russian" }
+		files = { "fonts/Open_Sans/OpenSans-SemiBoldItalic.ttf" "fonts/Noto_Sans_SC/NotoSansSC-Bold.otf" "fonts/Korean_fontset/GunglipbakmulgwanClassicB.ttf" }
+	}
+
+	group = {
+		languages = { "l_simp_chinese" }
+		files = { "fonts/Noto_Sans_SC/NotoSansSC-Bold.otf" "fonts/Open_Sans/OpenSans-SemiBoldItalic.ttf" "fonts/Korean_fontset/GunglipbakmulgwanClassicB.ttf" }
+	}
+
+	group = {
+		languages = { "l_korean" }
+		files = { "fonts/Korean_fontset/GunglipbakmulgwanClassicB.ttf" "fonts/Open_Sans/OpenSans-SemiBoldItalic.ttf" "fonts/Noto_Sans_SC/NotoSansSC-Bold.otf" }
+	}
+}
+
+#######################################################################
+#######################################################################
+#######################################################################
+
+# Each font should specify what it is used for.
+# Name fonts after intented usage, not after source file names.
+
+# For map names
+font = {
+	name = "MapFont"
+
+	fontstyle = {
+		style = regular
+		fontfiles = "Cinzel-Bold"
+	}
+}
